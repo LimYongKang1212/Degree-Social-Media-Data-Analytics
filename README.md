@@ -32,6 +32,10 @@
 
 <p align="justify">This study includes five main steps: selecting relevant keywords, gathering data from Facebook and Instagram via Apify, preprocessing the textual data, analyzing sentiment and network connections, and displaying the findings. Data preparation includes cleaning text by removing stopwords, punctuation, emojis, and other irrelevant content. Sentiment analysis is performed in Python, while social network analysis is conducted in Gephi. The final findings are displayed via a Power BI dashboard.</p>
 
+<p align= "center">
+  <img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/3d199405-c33d-454c-bc7d-f650793bbc69" />
+</p>  
+
 ###
 
 <h2 align="left">Results</h2>
@@ -39,6 +43,18 @@
 ###
 
 <p align="justify">The results indicate that most social media posts exhibit negative sentiment, especially those containing hate-speech keywords such as “bodoh,” “rasuah,” and “cerai.” Negative posts gain the greatest response in terms of likes, comments, and shares. Network analysis reveals several local groups and shows that specific phrases are essential for spreading hate speech. The dashboard provides an interactive way to explore these patterns and insights.</p>
+
+<p align= "center">
+  
+  <img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/6d9ffb9d-d301-49a2-a5a6-2c5980ced3cf" />
+
+  <img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/bbe3025f-ad1c-4f65-8285-49f3b085fbd1" />
+
+  <img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/d4457899-59d0-4c44-801c-e0e5bbf04a76" />
+
+  <img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/3f835a03-b5e9-4788-84d2-8d30f61d5f24" />
+
+</p>
 
 ###
 
