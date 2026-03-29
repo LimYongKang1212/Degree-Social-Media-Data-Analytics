@@ -62,6 +62,6 @@
 
 ###
 
-<p align="justify">hate speech is widely present on social media in Malaysia and is mostly negative in nature. It spreads quickly and gains high user engagement, which can harm social unity. Addressing this issue requires cooperation between the government, social media platforms, and users to create a safer and more respectful online environment.</p>
+<p align="justify">Hate speech is widely present on social media in Malaysia and is mostly negative in nature. It spreads quickly and gains high user engagement, which can harm social unity. Addressing this issue requires cooperation between the government, social media platforms, and users to create a safer and more respectful online environment.</p>
 
 ###
